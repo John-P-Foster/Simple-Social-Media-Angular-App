@@ -1,0 +1,9 @@
+/** :host targets this component- Cool! **/
+:host {
+    display: block;
+    margin-top: 1rem;
+}
+
+.info-text {
+    text-align: center;
+}
